@@ -54,3 +54,22 @@ body {
     margin-top: auto;
     background-color: #1F2937;
 }
+.Title-images-section {
+    text-align: center;
+    margin: 40px;
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
+.images-section {
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+}
+.info {
+    max-width: 100px;
+}
+img {
+    width: 100px;
+    height: 100px;
+}

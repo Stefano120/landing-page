@@ -85,7 +85,7 @@ img {
     font-size: 36px;
     color: #1F2937;
     padding: 80px;
-    font-weight: 300;
+    font-weight: 250;
     font-style: italic;
     padding-bottom: 20px;
     
@@ -94,7 +94,7 @@ img {
 .credit {
     background-color: #E5E7EB;
     font-size: 20px;
-    font-weight: 300;
+    font-weight: 250;
     font-style: italic;
     text-align: right;
     padding-bottom: 50px;

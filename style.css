@@ -36,11 +36,13 @@ body {
     font-size: 48px;
     font-weight: 900;
     color: #f9faf8;
+    margin-bottom: 25px;
     
 }
 .herosmalltext {
     font-size: 24px;
     color: #E5E7EB;
+    margin-bottom: 25px;
 }
 .hero-right {
     margin-left: 200px;
@@ -51,9 +53,11 @@ body {
     color: white;
     border-radius: 10px;
     padding: 10px;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
     font-weight: bold;
+    border: solid;
+    border: rgb(80, 80, 233);
 }
 .image {
     padding: 100px;

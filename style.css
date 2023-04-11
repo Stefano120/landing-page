@@ -31,8 +31,6 @@ body {
     background-image: url(images/backgroundimage.webp);
     padding: 50px;
     
-    
-
 
 }
 .heromaintext {
@@ -66,11 +64,13 @@ body {
     font-size: 36px;
     font-weight: 900;
     color: #1F2937;
+    margin-bottom: 0px;
 }
 .images-section {
     display: flex;
     justify-content: center;
     gap: 80px;
+    padding: 60px;
 }
 .info {
     max-width: 100px;
@@ -78,4 +78,26 @@ body {
 img {
     width: 100px;
     height: 100px;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    color: #1F2937;
+    padding: 80px;
+    font-weight: 300;
+    font-style: italic;
+    padding-bottom: 20px;
+    
+}
+
+.credit {
+    background-color: #E5E7EB;
+    font-size: 20px;
+    font-weight: 300;
+    font-style: italic;
+    text-align: right;
+    padding-bottom: 50px;
+    padding-right: 135px;
+    font-weight: bold;
 }

@@ -25,6 +25,10 @@ body {
     color: #E5E7EB;
     
 }
+a { 
+    color: white;
+    text-decoration: none;
+}
 .Hero {
     background-color: #1F2937;
     display: flex;
@@ -45,8 +49,9 @@ body {
     margin-bottom: 25px;
 }
 .hero-right {
-    margin-left: 200px;
+    margin-left: 100px;
     
+
 }
 .herobutton {
     background-color: rgb(80, 80, 233);
@@ -64,16 +69,6 @@ body {
     margin-right: 200px;
 }
 
-.footer {
-    flex-direction: column;
-    display: flex;
-    margin-top: auto;
-    background-color: #1F2937;
-    color: #f9faf8;
-    padding: 25px;
-    justify-content: center;
-    align-items: center;
-}
 .Title-images-section {
     text-align: center;
     margin: 40px;
@@ -149,4 +144,21 @@ img {
    background-color: rgb(80, 80, 233);
    border: solid white;
    color: white;
+}
+.footer {
+    flex-direction: column;
+    display: flex;
+    margin-top: auto;
+    background-color: #1F2937;
+    color: #f9faf8;
+    padding: 25px;
+    justify-content: center;
+    align-items: center;
+}
+.header-image {
+    width: 400px;
+    height: 100%;
+    align-self: center;
+    padding: 30px;
+    margin-right: 70px;
 }

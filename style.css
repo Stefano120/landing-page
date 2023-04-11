@@ -90,6 +90,9 @@ img {
     width: 100px;
     height: 100px;
 }
+.text {
+    text-align: center;
+}
 
 .quote {
     background-color: #E5E7EB;
